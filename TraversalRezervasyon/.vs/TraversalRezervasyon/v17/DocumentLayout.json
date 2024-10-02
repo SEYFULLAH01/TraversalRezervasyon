@@ -3,6 +3,126 @@
   "WorkspaceRootPath": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{676B9D68-A729-4F97-8C37-462E9F1FB827}|TraversalRezervasyon\\TraversalRezervasyon.csproj|c:\\users\\seyfullah\\desktop\\traversalrezervasyon\\traversalrezervasyon\\traversalrezervasyon\\views\\shared\\components\\_sliderpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{676B9D68-A729-4F97-8C37-462E9F1FB827}|TraversalRezervasyon\\TraversalRezervasyon.csproj|solutionrelative:traversalrezervasyon\\views\\shared\\components\\_sliderpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{676B9D68-A729-4F97-8C37-462E9F1FB827}|TraversalRezervasyon\\TraversalRezervasyon.csproj|c:\\users\\seyfullah\\desktop\\traversalrezervasyon\\traversalrezervasyon\\traversalrezervasyon\\views\\layoutpartial\\_headerpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{676B9D68-A729-4F97-8C37-462E9F1FB827}|TraversalRezervasyon\\TraversalRezervasyon.csproj|solutionrelative:traversalrezervasyon\\views\\layoutpartial\\_headerpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{676B9D68-A729-4F97-8C37-462E9F1FB827}|TraversalRezervasyon\\TraversalRezervasyon.csproj|c:\\users\\seyfullah\\desktop\\traversalrezervasyon\\traversalrezervasyon\\traversalrezervasyon\\views\\layoutpartial\\_navbarpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{676B9D68-A729-4F97-8C37-462E9F1FB827}|TraversalRezervasyon\\TraversalRezervasyon.csproj|solutionrelative:traversalrezervasyon\\views\\layoutpartial\\_navbarpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{676B9D68-A729-4F97-8C37-462E9F1FB827}|TraversalRezervasyon\\TraversalRezervasyon.csproj|c:\\users\\seyfullah\\desktop\\traversalrezervasyon\\traversalrezervasyon\\traversalrezervasyon\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{676B9D68-A729-4F97-8C37-462E9F1FB827}|TraversalRezervasyon\\TraversalRezervasyon.csproj|solutionrelative:traversalrezervasyon\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{676B9D68-A729-4F97-8C37-462E9F1FB827}|TraversalRezervasyon\\TraversalRezervasyon.csproj|c:\\users\\seyfullah\\desktop\\traversalrezervasyon\\traversalrezervasyon\\traversalrezervasyon\\viewcomponents\\default\\_sliderpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{676B9D68-A729-4F97-8C37-462E9F1FB827}|TraversalRezervasyon\\TraversalRezervasyon.csproj|solutionrelative:traversalrezervasyon\\viewcomponents\\default\\_sliderpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{676B9D68-A729-4F97-8C37-462E9F1FB827}|TraversalRezervasyon\\TraversalRezervasyon.csproj|c:\\users\\seyfullah\\desktop\\traversalrezervasyon\\traversalrezervasyon\\traversalrezervasyon\\views\\layoutpartial\\_scriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{676B9D68-A729-4F97-8C37-462E9F1FB827}|TraversalRezervasyon\\TraversalRezervasyon.csproj|solutionrelative:traversalrezervasyon\\views\\layoutpartial\\_scriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FEF6E38-CAB1-48D7-B286-C24339195D14}|EntityLayer\\EntityLayer.csproj|c:\\users\\seyfullah\\desktop\\traversalrezervasyon\\traversalrezervasyon\\entitylayer\\concrete\\guide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FEF6E38-CAB1-48D7-B286-C24339195D14}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\concrete\\guide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FEF6E38-CAB1-48D7-B286-C24339195D14}|EntityLayer\\EntityLayer.csproj|c:\\users\\seyfullah\\desktop\\traversalrezervasyon\\traversalrezervasyon\\entitylayer\\concrete\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FEF6E38-CAB1-48D7-B286-C24339195D14}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\concrete\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{676B9D68-A729-4F97-8C37-462E9F1FB827}|TraversalRezervasyon\\TraversalRezervasyon.csproj|c:\\users\\seyfullah\\desktop\\traversalrezervasyon\\traversalrezervasyon\\traversalrezervasyon\\views\\layoutpartial\\_footerpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{676B9D68-A729-4F97-8C37-462E9F1FB827}|TraversalRezervasyon\\TraversalRezervasyon.csproj|solutionrelative:traversalrezervasyon\\views\\layoutpartial\\_footerpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{676B9D68-A729-4F97-8C37-462E9F1FB827}|TraversalRezervasyon\\TraversalRezervasyon.csproj|c:\\users\\seyfullah\\desktop\\traversalrezervasyon\\traversalrezervasyon\\traversalrezervasyon\\views\\shared\\_uilayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{676B9D68-A729-4F97-8C37-462E9F1FB827}|TraversalRezervasyon\\TraversalRezervasyon.csproj|solutionrelative:traversalrezervasyon\\views\\shared\\_uilayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{676B9D68-A729-4F97-8C37-462E9F1FB827}|TraversalRezervasyon\\TraversalRezervasyon.csproj|c:\\users\\seyfullah\\desktop\\traversalrezervasyon\\traversalrezervasyon\\traversalrezervasyon\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{676B9D68-A729-4F97-8C37-462E9F1FB827}|TraversalRezervasyon\\TraversalRezervasyon.csproj|solutionrelative:traversalrezervasyon\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FEF6E38-CAB1-48D7-B286-C24339195D14}|EntityLayer\\EntityLayer.csproj|c:\\users\\seyfullah\\desktop\\traversalrezervasyon\\traversalrezervasyon\\entitylayer\\concrete\\subabout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FEF6E38-CAB1-48D7-B286-C24339195D14}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\concrete\\subabout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FEF6E38-CAB1-48D7-B286-C24339195D14}|EntityLayer\\EntityLayer.csproj|c:\\users\\seyfullah\\desktop\\traversalrezervasyon\\traversalrezervasyon\\entitylayer\\concrete\\contactus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FEF6E38-CAB1-48D7-B286-C24339195D14}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\concrete\\contactus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FEF6E38-CAB1-48D7-B286-C24339195D14}|EntityLayer\\EntityLayer.csproj|c:\\users\\seyfullah\\desktop\\traversalrezervasyon\\traversalrezervasyon\\entitylayer\\concrete\\newsletter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FEF6E38-CAB1-48D7-B286-C24339195D14}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\concrete\\newsletter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FEF6E38-CAB1-48D7-B286-C24339195D14}|EntityLayer\\EntityLayer.csproj|c:\\users\\seyfullah\\desktop\\traversalrezervasyon\\traversalrezervasyon\\entitylayer\\concrete\\feature2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FEF6E38-CAB1-48D7-B286-C24339195D14}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\concrete\\feature2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F101CA8-DE0C-4333-A29D-7AD3EBB4EBD5}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\seyfullah\\desktop\\traversalrezervasyon\\traversalrezervasyon\\businesslayer\\validationrules\\guidevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F101CA8-DE0C-4333-A29D-7AD3EBB4EBD5}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\validationrules\\guidevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F101CA8-DE0C-4333-A29D-7AD3EBB4EBD5}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\seyfullah\\desktop\\traversalrezervasyon\\traversalrezervasyon\\businesslayer\\validationrules\\aboutvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F101CA8-DE0C-4333-A29D-7AD3EBB4EBD5}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\validationrules\\aboutvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F101CA8-DE0C-4333-A29D-7AD3EBB4EBD5}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\seyfullah\\desktop\\traversalrezervasyon\\traversalrezervasyon\\businesslayer\\concrete\\aboutmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F101CA8-DE0C-4333-A29D-7AD3EBB4EBD5}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\concrete\\aboutmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F101CA8-DE0C-4333-A29D-7AD3EBB4EBD5}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\seyfullah\\desktop\\traversalrezervasyon\\traversalrezervasyon\\businesslayer\\abstract\\itestimonialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F101CA8-DE0C-4333-A29D-7AD3EBB4EBD5}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\abstract\\itestimonialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F101CA8-DE0C-4333-A29D-7AD3EBB4EBD5}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\seyfullah\\desktop\\traversalrezervasyon\\traversalrezervasyon\\businesslayer\\abstract\\isubaboutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F101CA8-DE0C-4333-A29D-7AD3EBB4EBD5}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\abstract\\isubaboutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F101CA8-DE0C-4333-A29D-7AD3EBB4EBD5}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\seyfullah\\desktop\\traversalrezervasyon\\traversalrezervasyon\\businesslayer\\abstract\\inewsletterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F101CA8-DE0C-4333-A29D-7AD3EBB4EBD5}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\abstract\\inewsletterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F101CA8-DE0C-4333-A29D-7AD3EBB4EBD5}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\seyfullah\\desktop\\traversalrezervasyon\\traversalrezervasyon\\businesslayer\\abstract\\iguideservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F101CA8-DE0C-4333-A29D-7AD3EBB4EBD5}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\abstract\\iguideservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F101CA8-DE0C-4333-A29D-7AD3EBB4EBD5}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\seyfullah\\desktop\\traversalrezervasyon\\traversalrezervasyon\\businesslayer\\abstract\\ifeatureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F101CA8-DE0C-4333-A29D-7AD3EBB4EBD5}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\abstract\\ifeatureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F101CA8-DE0C-4333-A29D-7AD3EBB4EBD5}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\seyfullah\\desktop\\traversalrezervasyon\\traversalrezervasyon\\businesslayer\\abstract\\ifeature2service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F101CA8-DE0C-4333-A29D-7AD3EBB4EBD5}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\abstract\\ifeature2service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F101CA8-DE0C-4333-A29D-7AD3EBB4EBD5}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\seyfullah\\desktop\\traversalrezervasyon\\traversalrezervasyon\\businesslayer\\abstract\\idestinationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F101CA8-DE0C-4333-A29D-7AD3EBB4EBD5}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\abstract\\idestinationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F101CA8-DE0C-4333-A29D-7AD3EBB4EBD5}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\seyfullah\\desktop\\traversalrezervasyon\\traversalrezervasyon\\businesslayer\\abstract\\icontactusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F101CA8-DE0C-4333-A29D-7AD3EBB4EBD5}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\abstract\\icontactusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F101CA8-DE0C-4333-A29D-7AD3EBB4EBD5}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\seyfullah\\desktop\\traversalrezervasyon\\traversalrezervasyon\\businesslayer\\abstract\\icontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F101CA8-DE0C-4333-A29D-7AD3EBB4EBD5}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\abstract\\icontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F101CA8-DE0C-4333-A29D-7AD3EBB4EBD5}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\seyfullah\\desktop\\traversalrezervasyon\\traversalrezervasyon\\businesslayer\\abstract\\iabout2service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F101CA8-DE0C-4333-A29D-7AD3EBB4EBD5}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\abstract\\iabout2service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F101CA8-DE0C-4333-A29D-7AD3EBB4EBD5}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\seyfullah\\desktop\\traversalrezervasyon\\traversalrezervasyon\\businesslayer\\abstract\\iaboutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F101CA8-DE0C-4333-A29D-7AD3EBB4EBD5}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\abstract\\iaboutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F101CA8-DE0C-4333-A29D-7AD3EBB4EBD5}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\seyfullah\\desktop\\traversalrezervasyon\\traversalrezervasyon\\businesslayer\\abstract\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F101CA8-DE0C-4333-A29D-7AD3EBB4EBD5}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\abstract\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7F598F3F-1EA9-41E1-AE32-5F80303AF1C1}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\seyfullah\\desktop\\traversalrezervasyon\\traversalrezervasyon\\dataaccesslayer\\entityframework\\eftestimonialdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F598F3F-1EA9-41E1-AE32-5F80303AF1C1}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entityframework\\eftestimonialdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -111,36 +231,12 @@
       "RelativeMoniker": "D:0:0:{7F598F3F-1EA9-41E1-AE32-5F80303AF1C1}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\migrations\\20241001174847_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FEF6E38-CAB1-48D7-B286-C24339195D14}|EntityLayer\\EntityLayer.csproj|c:\\users\\seyfullah\\desktop\\traversalrezervasyon\\traversalrezervasyon\\entitylayer\\concrete\\newsletter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FEF6E38-CAB1-48D7-B286-C24339195D14}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\concrete\\newsletter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6FEF6E38-CAB1-48D7-B286-C24339195D14}|EntityLayer\\EntityLayer.csproj|c:\\users\\seyfullah\\desktop\\traversalrezervasyon\\traversalrezervasyon\\entitylayer\\concrete\\testimonial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6FEF6E38-CAB1-48D7-B286-C24339195D14}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\concrete\\testimonial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FEF6E38-CAB1-48D7-B286-C24339195D14}|EntityLayer\\EntityLayer.csproj|c:\\users\\seyfullah\\desktop\\traversalrezervasyon\\traversalrezervasyon\\entitylayer\\concrete\\subabout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FEF6E38-CAB1-48D7-B286-C24339195D14}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\concrete\\subabout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FEF6E38-CAB1-48D7-B286-C24339195D14}|EntityLayer\\EntityLayer.csproj|c:\\users\\seyfullah\\desktop\\traversalrezervasyon\\traversalrezervasyon\\entitylayer\\concrete\\guide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FEF6E38-CAB1-48D7-B286-C24339195D14}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\concrete\\guide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FEF6E38-CAB1-48D7-B286-C24339195D14}|EntityLayer\\EntityLayer.csproj|c:\\users\\seyfullah\\desktop\\traversalrezervasyon\\traversalrezervasyon\\entitylayer\\concrete\\feature2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FEF6E38-CAB1-48D7-B286-C24339195D14}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\concrete\\feature2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FEF6E38-CAB1-48D7-B286-C24339195D14}|EntityLayer\\EntityLayer.csproj|c:\\users\\seyfullah\\desktop\\traversalrezervasyon\\traversalrezervasyon\\entitylayer\\concrete\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FEF6E38-CAB1-48D7-B286-C24339195D14}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\concrete\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6FEF6E38-CAB1-48D7-B286-C24339195D14}|EntityLayer\\EntityLayer.csproj|c:\\users\\seyfullah\\desktop\\traversalrezervasyon\\traversalrezervasyon\\entitylayer\\concrete\\destination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6FEF6E38-CAB1-48D7-B286-C24339195D14}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\concrete\\destination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FEF6E38-CAB1-48D7-B286-C24339195D14}|EntityLayer\\EntityLayer.csproj|c:\\users\\seyfullah\\desktop\\traversalrezervasyon\\traversalrezervasyon\\entitylayer\\concrete\\contactus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FEF6E38-CAB1-48D7-B286-C24339195D14}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\concrete\\contactus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6FEF6E38-CAB1-48D7-B286-C24339195D14}|EntityLayer\\EntityLayer.csproj|c:\\users\\seyfullah\\desktop\\traversalrezervasyon\\traversalrezervasyon\\entitylayer\\concrete\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -167,6 +263,318 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\TraversalRezervasyon\\Views\\Shared\\Components\\_SliderPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "TraversalRezervasyon\\Views\\Shared\\Components\\_SliderPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\TraversalRezervasyon\\Views\\Shared\\Components\\_SliderPartial\\Default.cshtml",
+              "RelativeToolTip": "TraversalRezervasyon\\Views\\Shared\\Components\\_SliderPartial\\Default.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T14:31:08.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_SliderPartial.cs",
+              "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\TraversalRezervasyon\\ViewComponents\\Default\\_SliderPartial.cs",
+              "RelativeDocumentMoniker": "TraversalRezervasyon\\ViewComponents\\Default\\_SliderPartial.cs",
+              "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\TraversalRezervasyon\\ViewComponents\\Default\\_SliderPartial.cs",
+              "RelativeToolTip": "TraversalRezervasyon\\ViewComponents\\Default\\_SliderPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T14:26:27.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\TraversalRezervasyon\\Views\\LayoutPartial\\_ScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "TraversalRezervasyon\\Views\\LayoutPartial\\_ScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\TraversalRezervasyon\\Views\\LayoutPartial\\_ScriptsPartial.cshtml",
+              "RelativeToolTip": "TraversalRezervasyon\\Views\\LayoutPartial\\_ScriptsPartial.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAjwEcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T14:11:11.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_FooterPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\TraversalRezervasyon\\Views\\LayoutPartial\\_FooterPartial.cshtml",
+              "RelativeDocumentMoniker": "TraversalRezervasyon\\Views\\LayoutPartial\\_FooterPartial.cshtml",
+              "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\TraversalRezervasyon\\Views\\LayoutPartial\\_FooterPartial.cshtml",
+              "RelativeToolTip": "TraversalRezervasyon\\Views\\LayoutPartial\\_FooterPartial.cshtml",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAwHUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T13:58:41.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_NavbarPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\TraversalRezervasyon\\Views\\LayoutPartial\\_NavbarPartial.cshtml",
+              "RelativeDocumentMoniker": "TraversalRezervasyon\\Views\\LayoutPartial\\_NavbarPartial.cshtml",
+              "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\TraversalRezervasyon\\Views\\LayoutPartial\\_NavbarPartial.cshtml",
+              "RelativeToolTip": "TraversalRezervasyon\\Views\\LayoutPartial\\_NavbarPartial.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAC4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T13:53:42.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_HeaderPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\TraversalRezervasyon\\Views\\LayoutPartial\\_HeaderPartial.cshtml",
+              "RelativeDocumentMoniker": "TraversalRezervasyon\\Views\\LayoutPartial\\_HeaderPartial.cshtml",
+              "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\TraversalRezervasyon\\Views\\LayoutPartial\\_HeaderPartial.cshtml",
+              "RelativeToolTip": "TraversalRezervasyon\\Views\\LayoutPartial\\_HeaderPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T13:30:47.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\TraversalRezervasyon\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "TraversalRezervasyon\\Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\TraversalRezervasyon\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "TraversalRezervasyon\\Views\\Default\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T13:19:45.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_UILayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\TraversalRezervasyon\\Views\\Shared\\_UILayout.cshtml",
+              "RelativeDocumentMoniker": "TraversalRezervasyon\\Views\\Shared\\_UILayout.cshtml",
+              "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\TraversalRezervasyon\\Views\\Shared\\_UILayout.cshtml",
+              "RelativeToolTip": "TraversalRezervasyon\\Views\\Shared\\_UILayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T12:45:48.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\TraversalRezervasyon\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "TraversalRezervasyon\\Controllers\\DefaultController.cs",
+              "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\TraversalRezervasyon\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "TraversalRezervasyon\\Controllers\\DefaultController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T12:43:31.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GuideValidator.cs",
+              "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\BusinessLayer\\ValidationRules\\GuideValidator.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\ValidationRules\\GuideValidator.cs",
+              "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\BusinessLayer\\ValidationRules\\GuideValidator.cs",
+              "RelativeToolTip": "BusinessLayer\\ValidationRules\\GuideValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T12:40:12.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AboutValidator.cs",
+              "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\BusinessLayer\\ValidationRules\\AboutValidator.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\ValidationRules\\AboutValidator.cs",
+              "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\BusinessLayer\\ValidationRules\\AboutValidator.cs",
+              "RelativeToolTip": "BusinessLayer\\ValidationRules\\AboutValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T12:35:11.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AboutManager.cs",
+              "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\BusinessLayer\\Concrete\\AboutManager.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Concrete\\AboutManager.cs",
+              "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\BusinessLayer\\Concrete\\AboutManager.cs",
+              "RelativeToolTip": "BusinessLayer\\Concrete\\AboutManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T12:33:09.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ITestimonialService.cs",
+              "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\BusinessLayer\\Abstract\\ITestimonialService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Abstract\\ITestimonialService.cs",
+              "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\BusinessLayer\\Abstract\\ITestimonialService.cs",
+              "RelativeToolTip": "BusinessLayer\\Abstract\\ITestimonialService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T12:29:51.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ISubAboutService.cs",
+              "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\BusinessLayer\\Abstract\\ISubAboutService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Abstract\\ISubAboutService.cs",
+              "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\BusinessLayer\\Abstract\\ISubAboutService.cs",
+              "RelativeToolTip": "BusinessLayer\\Abstract\\ISubAboutService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T12:29:35.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "INewsLetterService.cs",
+              "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\BusinessLayer\\Abstract\\INewsLetterService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Abstract\\INewsLetterService.cs",
+              "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\BusinessLayer\\Abstract\\INewsLetterService.cs",
+              "RelativeToolTip": "BusinessLayer\\Abstract\\INewsLetterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T12:29:07.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IGuideService.cs",
+              "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\BusinessLayer\\Abstract\\IGuideService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Abstract\\IGuideService.cs",
+              "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\BusinessLayer\\Abstract\\IGuideService.cs",
+              "RelativeToolTip": "BusinessLayer\\Abstract\\IGuideService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T12:28:44.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IFeatureService.cs",
+              "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\BusinessLayer\\Abstract\\IFeatureService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Abstract\\IFeatureService.cs",
+              "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\BusinessLayer\\Abstract\\IFeatureService.cs",
+              "RelativeToolTip": "BusinessLayer\\Abstract\\IFeatureService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T12:28:24.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IFeature2Service.cs",
+              "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\BusinessLayer\\Abstract\\IFeature2Service.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Abstract\\IFeature2Service.cs",
+              "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\BusinessLayer\\Abstract\\IFeature2Service.cs",
+              "RelativeToolTip": "BusinessLayer\\Abstract\\IFeature2Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T12:28:07.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IDestinationService.cs",
+              "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\BusinessLayer\\Abstract\\IDestinationService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Abstract\\IDestinationService.cs",
+              "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\BusinessLayer\\Abstract\\IDestinationService.cs",
+              "RelativeToolTip": "BusinessLayer\\Abstract\\IDestinationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T12:27:43.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IContactUsService.cs",
+              "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\BusinessLayer\\Abstract\\IContactUsService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Abstract\\IContactUsService.cs",
+              "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\BusinessLayer\\Abstract\\IContactUsService.cs",
+              "RelativeToolTip": "BusinessLayer\\Abstract\\IContactUsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T12:27:02.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IContactService.cs",
+              "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\BusinessLayer\\Abstract\\IContactService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Abstract\\IContactService.cs",
+              "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\BusinessLayer\\Abstract\\IContactService.cs",
+              "RelativeToolTip": "BusinessLayer\\Abstract\\IContactService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T12:26:38.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IAbout2Service.cs",
+              "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\BusinessLayer\\Abstract\\IAbout2Service.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Abstract\\IAbout2Service.cs",
+              "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\BusinessLayer\\Abstract\\IAbout2Service.cs",
+              "RelativeToolTip": "BusinessLayer\\Abstract\\IAbout2Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T12:25:56.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IAboutService.cs",
+              "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\BusinessLayer\\Abstract\\IAboutService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Abstract\\IAboutService.cs",
+              "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\BusinessLayer\\Abstract\\IAboutService.cs",
+              "RelativeToolTip": "BusinessLayer\\Abstract\\IAboutService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T12:25:21.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IGenericService.cs",
+              "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\BusinessLayer\\Abstract\\IGenericService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Abstract\\IGenericService.cs",
+              "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\BusinessLayer\\Abstract\\IGenericService.cs",
+              "RelativeToolTip": "BusinessLayer\\Abstract\\IGenericService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T19:04:04.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
               "Title": "EfTestimonialDal.cs",
               "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\DataAccessLayer\\EntityFramework\\EfTestimonialDal.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\EntityFramework\\EfTestimonialDal.cs",
@@ -179,7 +587,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 31,
               "Title": "EfSubAboutDal.cs",
               "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\DataAccessLayer\\EntityFramework\\EfSubAboutDal.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\EntityFramework\\EfSubAboutDal.cs",
@@ -192,7 +600,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 32,
               "Title": "EfNewsLetterDal.cs",
               "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\DataAccessLayer\\EntityFramework\\EfNewsLetterDal.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\EntityFramework\\EfNewsLetterDal.cs",
@@ -205,7 +613,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 33,
               "Title": "EfGuideDal.cs",
               "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\DataAccessLayer\\EntityFramework\\EfGuideDal.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\EntityFramework\\EfGuideDal.cs",
@@ -218,7 +626,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 34,
               "Title": "EfFeature2Dal.cs",
               "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\DataAccessLayer\\EntityFramework\\EfFeature2Dal.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\EntityFramework\\EfFeature2Dal.cs",
@@ -231,7 +639,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 35,
               "Title": "EfFeatureDal.cs",
               "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\DataAccessLayer\\EntityFramework\\EfFeatureDal.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\EntityFramework\\EfFeatureDal.cs",
@@ -244,7 +652,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 36,
               "Title": "EfDestinationDal.cs",
               "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\DataAccessLayer\\EntityFramework\\EfDestinationDal.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\EntityFramework\\EfDestinationDal.cs",
@@ -257,7 +665,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 37,
               "Title": "EfContactUsDal.cs",
               "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\DataAccessLayer\\EntityFramework\\EfContactUsDal.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\EntityFramework\\EfContactUsDal.cs",
@@ -270,7 +678,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 38,
               "Title": "EfContactDal.cs",
               "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\DataAccessLayer\\EntityFramework\\EfContactDal.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\EntityFramework\\EfContactDal.cs",
@@ -283,7 +691,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 39,
               "Title": "EfAbout2Dal.cs",
               "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\DataAccessLayer\\EntityFramework\\EfAbout2Dal.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\EntityFramework\\EfAbout2Dal.cs",
@@ -296,7 +704,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 40,
               "Title": "EfAboutDal.cs",
               "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\DataAccessLayer\\EntityFramework\\EfAboutDal.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\EntityFramework\\EfAboutDal.cs",
@@ -309,7 +717,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 41,
               "Title": "GenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\DataAccessLayer\\Repository\\GenericRepository.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\GenericRepository.cs",
@@ -322,7 +730,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 48,
               "Title": "ITestimonialDal.cs",
               "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\DataAccessLayer\\Abstract\\ITestimonialDal.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Abstract\\ITestimonialDal.cs",
@@ -335,7 +743,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 49,
               "Title": "ISubAboutDal.cs",
               "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\DataAccessLayer\\Abstract\\ISubAboutDal.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Abstract\\ISubAboutDal.cs",
@@ -348,7 +756,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 50,
               "Title": "INewsLetterDal.cs",
               "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\DataAccessLayer\\Abstract\\INewsLetterDal.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Abstract\\INewsLetterDal.cs",
@@ -361,7 +769,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 51,
               "Title": "IFeature2Dal.cs",
               "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\DataAccessLayer\\Abstract\\IFeature2Dal.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Abstract\\IFeature2Dal.cs",
@@ -374,7 +782,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 52,
               "Title": "IFeatureDal.cs",
               "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\DataAccessLayer\\Abstract\\IFeatureDal.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Abstract\\IFeatureDal.cs",
@@ -387,7 +795,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 53,
               "Title": "IContactUsDal.cs",
               "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\DataAccessLayer\\Abstract\\IContactUsDal.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Abstract\\IContactUsDal.cs",
@@ -400,7 +808,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 54,
               "Title": "IContactDal.cs",
               "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\DataAccessLayer\\Abstract\\IContactDal.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Abstract\\IContactDal.cs",
@@ -413,7 +821,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 46,
               "Title": "IAbout2Dal.cs",
               "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\DataAccessLayer\\Abstract\\IAbout2Dal.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Abstract\\IAbout2Dal.cs",
@@ -426,7 +834,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 55,
               "Title": "IAboutDal.cs",
               "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\DataAccessLayer\\Abstract\\IAboutDal.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Abstract\\IAboutDal.cs",
@@ -439,7 +847,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 45,
               "Title": "IGenericDal.cs",
               "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\DataAccessLayer\\Abstract\\IGenericDal.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Abstract\\IGenericDal.cs",
@@ -452,7 +860,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 43,
               "Title": "IDestinationDal.cs",
               "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\DataAccessLayer\\Abstract\\IDestinationDal.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Abstract\\IDestinationDal.cs",
@@ -465,7 +873,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 42,
               "Title": "IGuideDal.cs",
               "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\DataAccessLayer\\Abstract\\IGuideDal.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Abstract\\IGuideDal.cs",
@@ -478,7 +886,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 56,
               "Title": "20241001174847_mig1.cs",
               "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\DataAccessLayer\\Migrations\\20241001174847_mig1.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Migrations\\20241001174847_mig1.cs",
@@ -491,8 +899,8 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "DataAccessLayer",
+              "DocumentIndex": 44,
+              "Title": "DataAccessLayer.csproj",
               "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\DataAccessLayer\\DataAccessLayer.csproj",
               "RelativeDocumentMoniker": "DataAccessLayer\\DataAccessLayer.csproj",
               "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\DataAccessLayer\\DataAccessLayer.csproj",
@@ -504,20 +912,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 47,
               "Title": "Context.cs",
               "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\DataAccessLayer\\Concrete\\Context.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Concrete\\Context.cs",
               "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\DataAccessLayer\\Concrete\\Context.cs",
               "RelativeToolTip": "DataAccessLayer\\Concrete\\Context.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-01T17:24:06.956Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 12,
               "Title": "ContactUs.cs",
               "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\EntityLayer\\Concrete\\ContactUs.cs",
               "RelativeDocumentMoniker": "EntityLayer\\Concrete\\ContactUs.cs",
@@ -530,7 +938,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 59,
               "Title": "Contact.cs",
               "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\EntityLayer\\Concrete\\Contact.cs",
               "RelativeDocumentMoniker": "EntityLayer\\Concrete\\Contact.cs",
@@ -543,7 +951,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 6,
               "Title": "Guide.cs",
               "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\EntityLayer\\Concrete\\Guide.cs",
               "RelativeDocumentMoniker": "EntityLayer\\Concrete\\Guide.cs",
@@ -556,7 +964,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 60,
               "Title": "About2.cs",
               "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\EntityLayer\\Concrete\\About2.cs",
               "RelativeDocumentMoniker": "EntityLayer\\Concrete\\About2.cs",
@@ -569,7 +977,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 13,
               "Title": "NewsLetter.cs",
               "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\EntityLayer\\Concrete\\NewsLetter.cs",
               "RelativeDocumentMoniker": "EntityLayer\\Concrete\\NewsLetter.cs",
@@ -582,7 +990,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 57,
               "Title": "Testimonial.cs",
               "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\EntityLayer\\Concrete\\Testimonial.cs",
               "RelativeDocumentMoniker": "EntityLayer\\Concrete\\Testimonial.cs",
@@ -595,7 +1003,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 11,
               "Title": "SubAbout.cs",
               "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\EntityLayer\\Concrete\\SubAbout.cs",
               "RelativeDocumentMoniker": "EntityLayer\\Concrete\\SubAbout.cs",
@@ -608,7 +1016,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 14,
               "Title": "Feature2.cs",
               "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\EntityLayer\\Concrete\\Feature2.cs",
               "RelativeDocumentMoniker": "EntityLayer\\Concrete\\Feature2.cs",
@@ -621,7 +1029,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 7,
               "Title": "Feature.cs",
               "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\EntityLayer\\Concrete\\Feature.cs",
               "RelativeDocumentMoniker": "EntityLayer\\Concrete\\Feature.cs",
@@ -634,7 +1042,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 61,
               "Title": "About.cs",
               "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\EntityLayer\\Concrete\\About.cs",
               "RelativeDocumentMoniker": "EntityLayer\\Concrete\\About.cs",
@@ -647,7 +1055,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 58,
               "Title": "Destination.cs",
               "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\TraversalRezervasyon\\TraversalRezervasyon\\EntityLayer\\Concrete\\Destination.cs",
               "RelativeDocumentMoniker": "EntityLayer\\Concrete\\Destination.cs",
