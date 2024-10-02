@@ -17,7 +17,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyProductAttribute("TraversalRezervasyon")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca1dbd43509deed7104a441e59afab20ec6c36e1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aaa405c7458e1c2efff6e7c6723c83e8ada02b87")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TraversalRezervasyon.Views")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
